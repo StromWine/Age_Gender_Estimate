@@ -1,5 +1,3 @@
-# Age_Gender_Estimate
-
 # Age and gender estimation for tensorflow
 
 ---
