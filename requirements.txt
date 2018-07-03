@@ -1,0 +1,7 @@
+tensorflow==1.4
+ dlib==19.7.99
+ cv2
+- matplotlib==2.1.0
+ imutils==0.4.3
+ numpy==1.13.3
+ pandas==0.20.3
